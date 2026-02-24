@@ -47,6 +47,12 @@ Then open `http://localhost:8501` in your browser.
 
 ---
 
+# 🧬 Protein Structure Visualizer
+
+🌐 **Live Demo:** [https://protein-structure-visualizer.streamlit.app/]
+
+---
+
 ## Technical Details
 
 ### Pocket Detection Algorithm
